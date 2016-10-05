@@ -1,0 +1,31 @@
+{
+  "name": "ab-web",
+  "version": "0.0.1",
+  "description": "AllBlue web developer tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allblue-pl/npm-ab-web.git"
+  },
+  "keywords": [
+    "developer",
+    "tools",
+    "allblue",
+    "ab",
+    "web",
+    "development"
+  ],
+  "author": "Jakub Zolcik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allblue-pl/npm-ab-web/issues"
+  },
+  "homepage": "https://github.com/allblue-pl/npm-ab-web#readme",
+  "dependencies": {
+    "bower": "1.7.*",
+    "bower-dependencies-resolver": "0.0.*"
+  }
+}
